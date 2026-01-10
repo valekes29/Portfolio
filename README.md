@@ -1,1 +1,1 @@
-https://valekes29.github.io/Portfolio/
+https://valekes29.github.io/Portfolio/index.html
